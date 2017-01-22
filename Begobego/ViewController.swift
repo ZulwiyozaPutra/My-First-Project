@@ -20,6 +20,9 @@ class ViewController: UIViewController {
         let c = a + b
         print(c)
         
+        let d = a * c * b
+        print(d)
+        
         // Do any additional setup after loading the view, typically from a nib.
     }
 
